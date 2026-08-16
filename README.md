@@ -1,88 +1,55 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Hi%20I%20am%20RWM540%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Blockchain%20%7C%20Cloud%20%26%20Embedded%20Systems&descAlignY=58&descSize=18&descColor=d0d0d0" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rwm540&label=Profile%20Views&color=2E9EF7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/rwm540?label=Followers&style=flat-square&color=2E9EF7" />
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
-
-## 🚀 About Me
-
-I'm a versatile **Full Stack Developer** who loves building things end-to-end — from embedded hardware to cloud infrastructure to polished front-end interfaces.
-
-```
-💻 Full Stack Developer
-🤖 AI & Blockchain Enthusiast
-☁️ Cloud Infrastructure & Server Engineer
-🌐 Network & VoIP Specialist
-⚡ Embedded Systems Developer
-🎮 Unity Game Developer
-```
-
-I build applications and systems across **Web · Mobile · Desktop · Linux · macOS · Windows**
-
-<br/>
-
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,js,ts,html,css" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,django,fastapi,php,laravel" />
-
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ruby,php" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ruby,php" />
+</p>
 
-- Assembly (low-level & embedded programming)
+> 🔧 **Assembly** — Low-level & embedded programming
 
 ### 🗄 Database & Backend Services
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis" />
+</p>
 
-- SQL Server · PostgREST · Hasura
+> + SQL Server · PostgREST · Hasura
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,kubernetes" />
+</p>
 
 ### ⚡ Embedded Systems
-<img src="https://skillicons.dev/icons?i=arduino,c" />
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,platformio" />
+</p>
 
-- AVR Microcontrollers · ARM Architecture · Embedded C/C++
+> + AVR Microcontrollers · ARM Architecture · Embedded C/C++
 
 ### 🎮 Game Development
-<img src="https://skillicons.dev/icons?i=unity,cs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs" />
+</p>
 
 <br/>
 
-## ⚙️ Automation & IoT
+## 📊 Expertise Areas
 
-| Area | Tools |
-|---|---|
-| Workflow Automation | n8n, Node-RED |
-| Integration | REST/Webhook API Integration |
-| IoT | Device automation & telemetry |
+| Domain | Tools & Focus |
+|--------|---------------|
+| **Automation & IoT** | n8n, Node-RED, REST/Webhook API Integration, Device automation & telemetry |
+| **AI & Blockchain** | Machine Learning, Applied AI, Ethereum, Smart Contract Development |
+| **Network & Communication** | Network Engineering & Infrastructure, VoIP Systems, Server Deployment & Administration |
 
-## 🤖 AI & Blockchain
+<br/>
 
-| Area | Focus |
-|---|---|
-| AI | Machine Learning, Applied AI |
-| Blockchain | Ethereum, Smart Contract Development |
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwm540&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E9EF7&text_color=c9d1d9" height="165" />
+</p>
 
-## 🌐 Network & Communication
-
-- Network Engineering & Infrastructure Management
-- VoIP Systems
-- Server Deployment & Administration
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwm540&theme=tokyonight&hide_border=true&background=0d1117&stroke=2E9EF7&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+</p>
 
 <br/>
 
@@ -90,6 +57,7 @@ I build applications and systems across **Web · Mobile · Desktop · Linux · m
   <i>"Technology is not only about writing code — it's about creating systems."</i>
 </p>
 
+<!-- Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 </p>
