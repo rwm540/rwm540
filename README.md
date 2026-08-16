@@ -174,32 +174,68 @@ Building software for:
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ OIO FUTURE SYSTEMS ⚡
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwm540&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="gold">
+<stop stop-color="#FFD700">
+<animate 
+attributeName="stop-color"
+values="#FFD700;#FF8C00;#FFD700"
+dur="3s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="1" stop-color="#FF8C00"/>
+</linearGradient>
+</defs>
+
+
+<rect width="800" height="250" fill="#050505"/>
+
+
+<circle cx="400" cy="120" r="55"
+fill="url(#gold)">
+
+<animate
+attributeName="r"
+values="50;65;50"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle cx="400" cy="120" r="90"
+fill="none"
+stroke="url(#gold)"
+stroke-width="3">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 400 120"
+to="360 400 120"
+dur="8s"
+repeatCount="indefinite"/>
+
+</circle>
+
+
+<text x="400" y="220"
+fill="#FFD700"
+font-size="25"
+text-anchor="middle"
+font-family="monospace">
+
+OIO • AI • CLOUD • SYSTEMS
+
+</text>
+
+</svg>
+
 </p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
----
-
-<h2 align="center">
-⚡ OIO FUTURE SYSTEMS ⚡
-</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rwm540/rwm540/main/assets/oio-core.svg" width="800"/>
-</p>
----
-
-## 🚀 Always Building The Future
-
-"Technology is not only about writing code,
-it's about creating systems."
