@@ -1,1 +1,126 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbbd1824-005e-41ef-a79f-9f5415450b8f" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c023af78-8b0b-4b50-b023-c34cbf86adc1" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efd2c2fb-145b-4382-8e0e-94f6dce98750" />
+&lt;!-- Header --&gt;
+&lt;h1 align="center"&gt;Hi, I'm RWM540 👋&lt;/h1&gt;
+&lt;p align="center"&gt;
+  &lt;i&gt;Full Stack Developer | AI & Blockchain | Cloud & Embedded Systems&lt;/i&gt;
+&lt;/p&gt;
+
+&lt;!-- Pixel Animation --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://raw.githubusercontent.com/rwm540/rwm540/main/pixel_cubes.svg" width="100%" /&gt;
+&lt;/p&gt;
+
+&lt;!-- Profile Badges --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=rwm540&label=Profile%20Views&color=2E9EF7&style=flat-square" /&gt;
+  &lt;img src="https://img.shields.io/github/followers/rwm540?label=Followers&style=flat-square&color=2E9EF7" /&gt;
+&lt;/p&gt;
+
+&lt;!-- Social Links --&gt;
+&lt;p align="center"&gt;
+  &lt;a href="YOUR_LINKEDIN_URL"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="YOUR_TELEGRAM_URL"&gt;
+    &lt;img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:YOUR_EMAIL@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;br/&gt;
+
+## 🚀 About Me
+
+I'm a versatile **Full Stack Developer** who loves building things end-to-end — from embedded hardware to cloud infrastructure to polished front-end interfaces.
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/Full%20Stack%20Developer-2E9EF7?style=flat-square&logo=codepen&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/AI%20%26%20Blockchain-2E9EF7?style=flat-square&logo=openai&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Cloud%20%26%20Server-2E9EF7?style=flat-square&logo=cloudflare&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Network%20%26%20VoIP-2E9EF7?style=flat-square&logo=cisco&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Embedded%20Systems-2E9EF7?style=flat-square&logo=arduino&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Unity%20Game%20Dev-2E9EF7?style=flat-square&logo=unity&logoColor=white" /&gt;
+&lt;/p&gt;
+
+&lt;p align="center"&gt;
+  &lt;i&gt;Building applications and systems across &lt;b&gt;Web · Mobile · Desktop · Linux · macOS · Windows&lt;/b&gt;&lt;/i&gt;
+&lt;/p&gt;
+
+&lt;br/&gt;
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,js,ts,html,css,tailwind" /&gt;
+&lt;/p&gt;
+
+### ⚙️ Backend
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=nodejs,dotnet,django,fastapi,php,laravel" /&gt;
+&lt;/p&gt;
+
+### 💻 Programming Languages
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=c,cpp,cs,python,ruby,php" /&gt;
+&lt;/p&gt;
+
+&gt; 🔧 **Assembly** — low-level & embedded programming
+
+### 🗄 Database & Backend Services
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,redis" /&gt;
+&lt;/p&gt;
+
+&gt; + SQL Server · PostgREST · Hasura
+
+### ☁️ Cloud & DevOps
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,nginx,kubernetes" /&gt;
+&lt;/p&gt;
+
+### ⚡ Embedded Systems
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=arduino,raspberrypi,c,platformio" /&gt;
+&lt;/p&gt;
+
+&gt; + AVR Microcontrollers · ARM Architecture · Embedded C/C++
+
+### 🎮 Game Development
+&lt;p&gt;
+  &lt;img src="https://skillicons.dev/icons?i=unity,unreal,cs" /&gt;
+&lt;/p&gt;
+
+&lt;br/&gt;
+
+## 📊 Expertise Areas
+
+### ⚙️ Automation & IoT
+
+| Area | Tools |
+|------|-------|
+| Workflow Automation | n8n, Node-RED |
+| Integration | REST/Webhook API Integration |
+| IoT | Device automation & telemetry |
+
+### 🤖 AI & Blockchain
+
+| Area | Focus |
+|------|-------|
+| AI | Machine Learning, Applied AI |
+| Blockchain | Ethereum, Smart Contract Development |
+
+### 🌐 Network & Communication
+
+| Area | Focus |
+|------|-------|
+| Network | Network Engineering & Infrastructure Management |
+| VoIP | VoIP Systems |
+| Server | Server Deployment & Administration |
+
+&lt;br/&gt;
+
+&lt;p align="center"&gt;
+  &lt;i&gt;"Technology is not only about writing code — it's about creating systems."&lt;/i&gt;
+&lt;/p&gt;
