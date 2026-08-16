@@ -172,18 +172,14 @@ Building software for:
 ✅ Web
 
 
----
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
----
 
 # 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&row=1&column=6" />
-
----
+![Trophy](https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&row=1)
 
 # 🐍 Contribution Snake
 
