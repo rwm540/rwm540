@@ -173,18 +173,15 @@ Building software for:
 
 
 ---
-
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&hide_border=true" />
 
 ---
 
 # 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&row=1" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&row=1&column=6" />
 
 ---
 
