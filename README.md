@@ -176,23 +176,27 @@ Building software for:
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rwm540&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwm540&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophy
 
-<img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&row=1" />
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rwm540&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">
+⚡ OIO FUTURE SYSTEMS ⚡
+</h2>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/rwm540/rwm540/main/assets/oio-core.svg" width="800"/>
+</p>
 ---
 
 ## 🚀 Always Building The Future
